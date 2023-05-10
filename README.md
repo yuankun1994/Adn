@@ -1,1 +1,1 @@
-# Adn
+# ADN: Adversarial Duration-disentangled Network for Watch-time Prediction in Video Recommendation
