@@ -6,7 +6,6 @@ import torch.optim as optim
 import math
 import numpy as np
 from torch.utils.data import Dataset, DataLoader
-from dataset import KuaishouDataset
 from mestric import xauc_score
 
 class BackboneNet(nn.Module):
